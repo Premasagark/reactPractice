@@ -1,0 +1,16 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is learning from namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Premasagark/reactPractice.git"
+  },
+  "keywords": [],
+  "author": "Leo Das",
+  "license": "ISC"
+}
